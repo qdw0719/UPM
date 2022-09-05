@@ -1,7 +1,0 @@
-{
-	"host": "localhost",
-	"user": "root",
-	"password": "pointmgmt1234",
-	"port": "3306",
-	"database": "pm_dev"
-}
